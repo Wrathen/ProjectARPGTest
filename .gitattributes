@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 C3_v4_r5 filter=lfs diff=lfs merge=lfs -text
+C3_v4_r7 filter=lfs diff=lfs merge=lfs -text
